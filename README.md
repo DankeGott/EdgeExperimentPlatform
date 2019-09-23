@@ -1,2 +1,2 @@
 # EdgeExperimentPlatform
- An edge experiment by CCNT lab of ZJU
+ An edge experiment by Z.Liu, CCNT lab of ZJU
