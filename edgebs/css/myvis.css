@@ -1,0 +1,30 @@
+main {
+    font: 10pt sans;
+}
+#network {
+    float:left;
+    width: 1150px;
+    height: 580px;
+    margin:5px;
+    border: 1px solid lightgray;
+}
+#config {
+    float:left;
+    width: 400px;
+    height: 600px;
+}
+#input_output {
+    height: 300px;
+    width: 250px;
+    max-height: 300px;
+    max-width: 250px;
+    resize: none;
+}
+#loginfo {
+    height: 260px;
+    width: 1000px;
+    max-height: 260px;
+    max-width: 1000px;
+    resize: none;
+    overflow:scroll;
+}

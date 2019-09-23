@@ -1,0 +1,33 @@
+/*修改container的最大宽度为1280*/
+@media screen and (min-width: 1600px){
+    .container {
+        width: 1600px;
+    }
+}
+
+[class^="col"] {
+    border: 3px solid #cccccc;
+    /*height: 100px;*/
+}
+main {
+    height: 600px;
+}
+
+mybutton {
+    height: 600px;
+}
+
+log {
+    height: 330px;
+}
+
+.io {
+    height: 330px;
+}
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 55px;
+    padding-bottom: 20px;
+}
+
